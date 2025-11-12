@@ -9,6 +9,6 @@
 ---
 
 - 🎓 Estudante de **Ciência da Computação** na **UFG**  
-- 🤖 Participante do grupo de estudos **MLOps**  
+- 🤖 Participante do grupo de estudos **DEVops**  
 
 
